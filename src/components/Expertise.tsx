@@ -26,7 +26,9 @@ const labelsSecond = [
     "mySql",
     "XML",
     "phpmyadmin",
-    
+    "Snowflake",
+    "Pandas",
+    "Selenium",
 ];
 
 const labelsThird = [
@@ -48,7 +50,7 @@ function Expertise() {
                 <div className="skill">
                     <FontAwesomeIcon icon={faReact} size="3x"/>
                     <h3>Web Development</h3>
-                    <p>The strength of a design lies as much in the steps taken to create it as in the final result..</p>
+                    <p>Building responsive and functional websites that deliver great user experiences.</p>
                     <div className="flex-chips">
                         <span className="chip-title">Tech stack:</span>
                         {labelsFirst.map((label, index) => (
@@ -60,7 +62,7 @@ function Expertise() {
                 <div className="skill">
                     <FontAwesomeIcon icon={faDocker} size="3x"/>
                     <h3>Mobile App Development</h3>
-                    <p>Building modern and efficient mobile applications to ensure seamless user experiences on Android platforms</p>
+                    <p>Creating smooth and reliable mobile apps designed for Android platforms</p>
                     <div className="flex-chips">
                         <span className="chip-title">Tech stack:</span>
                         {labelsSecond.map((label, index) => (
@@ -73,7 +75,7 @@ function Expertise() {
                     <FontAwesomeIcon icon={faPython} size="3x"/>
                     <h3>RESPONSIVE UX/UI DESIGN
                     </h3>
-                    <p>Development is a way to make people aware of the services and/or products you are offering.</p>
+                    <p>Designing modern and user-friendly interfaces that make an impact</p>
                     <div className="flex-chips">
                         <span className="chip-title">Tech stack:</span>
                         {labelsThird.map((label, index) => (

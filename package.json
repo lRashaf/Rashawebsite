@@ -1,8 +1,8 @@
 {
-  "name": "react-portfolio-template",
+  "name": "react-portfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://lRashaf.github.io/my-portfolio",
+  "homepage": "https://IRashaf.github.io/my-portfolio",
 
   "homepage": ".",
   "dependencies": {
@@ -57,6 +57,7 @@
     ]
   },
   "devDependencies": {
-    "@types/react-vertical-timeline-component": "^3.3.6"
+    "@types/react-vertical-timeline-component": "^3.3.6",
+    "gh-pages": "^6.2.0"
   }
 }
