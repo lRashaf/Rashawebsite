@@ -27,8 +27,8 @@ function Project() {
                 <p> Developed a fully interactive and responsive website for Saudi hiking trails using React and CSS. Demonstrated expertise in crafting user-friendly designs with smooth navigation and dynamic features.</p>
             </div>
             <div className="project">
-                <a href="https://www.figma.com/proto/VLDRJrZiPA08jiooQYovaS/Untitled?node-id=5-573&t=Coszupt7A5XrdHvB-1" target="_blank" rel="noreferrer"><img src={mock08} className="zoom" alt="thumbnail" width="100%"/></a>
-                <a href="https://www.figma.com/proto/VLDRJrZiPA08jiooQYovaS/Untitled?node-id=5-573&t=Coszupt7A5XrdHvB-1" target="_blank" rel="noreferrer"><h2>Salati: Healthy Salad Delivery 
+            <a href="https://www.figma.com/proto/VLDRJrZiPA08jiooQYovaS/Untitled?node-id=0-1&t=Bc4HaUGE7m7wRJ5x-1" target="_blank" rel="noreferrer"><img src={mock08} className="zoom" alt="thumbnail" width="100%"/></a>
+            <a href="https://www.figma.com/proto/VLDRJrZiPA08jiooQYovaS/Untitled?node-id=0-1&t=Bc4HaUGE7m7wRJ5x-1" target="_blank" rel="noreferrer"><h2>Salati: Healthy Salad Delivery 
                 </h2></a>
                 <p>  Created a professional salad delivery app prototype with Figma, focusing on intuitive user journeys and sleek visuals to enhance user engagement and satisfaction.</p>
             </div>
@@ -53,19 +53,20 @@ function Project() {
                 <p>Built an elegant e-commerce website for premium headphones using React and JavaScript, highlighting a modern and professional interface tailored for tech-savvy users.</p>
             </div>
             <div className="project">
-                <a href="https://holokai.byuh.edu/programs-of-study" target="_blank" rel="noreferrer"><img src={mock03} className="zoom" alt="thumbnail" width="100%"/></a>
-                <a href="https://holokai.byuh.edu/programs-of-study" target="_blank" rel="noreferrer"><h2>GetTicketed(Under Development)</h2></a>
+                <a href="" target="_blank" rel="noreferrer"><img src={mock03} className="zoom" alt="thumbnail" width="100%"/></a>
+                <a href="" target="_blank" rel="noreferrer"><h2>GetTicketed(Under Development)</h2></a>
                 <p>Developed a visually engaging ticketing platform for Saudi events using React, emphasizing intuitive navigation and dynamic filtering. (Still under development.)</p>
             </div>
             <div className="project">
-                <a href="https://hookele.byuh.edu/transfer-evaluation-guidelines-and-matrix" target="_blank" rel="noreferrer"><img src={mock02} className="zoom" alt="thumbnail" width="100%"/></a>
-                <a href="https://hookele.byuh.edu/transfer-evaluation-guidelines-and-matrix" target="_blank" rel="noreferrer"><h2>Osteria Restaurant</h2></a>
+                
+                <a href="https://bejewelled-stardust-ce3329.netlify.app/" target="_blank" rel="noreferrer"><img src={mock02} className="zoom" alt="thumbnail" width="100%"/></a>
+                <a href="https://bejewelled-stardust-ce3329.netlify.app/" target="_blank" rel="noreferrer"><h2>Osteria Restaurant</h2></a>
                 <p>
                 Built a vibrant and responsive website for an Italian restaurant using HTML, CSS, and JavaScript, blending functionality with elegant design.</p>
             </div>
             <div className="project">
-                <a href="https://www.figma.com/proto/YpMtYG6FP05SnJQnGHktvp/Untitled?node-id=1-28&t=Pv3FiIWFZw60FuEF-1" target="_blank" rel="noreferrer"><img src={mock01} className="zoom" alt="thumbnail" width="100%"/></a>
-                <a href="https://www.figma.com/proto/YpMtYG6FP05SnJQnGHktvp/Untitled?node-id=1-28&t=Pv3FiIWFZw60FuEF-1" target="_blank" rel="noreferrer"><h2>SkyPort: Airport Management Mobile Application</h2></a>
+            <a href="https://www.figma.com/proto/f4dJcpxq6bU28suRHEfDYt/Time-Management-Mobile-Application?node-id=14-4&t=Bc4HaUGE7m7wRJ5x-1" target="_blank" rel="noreferrer"><img src={mock01} className="zoom" alt="thumbnail" width="100%"/></a>
+            <a href="https://www.figma.com/proto/f4dJcpxq6bU28suRHEfDYt/Time-Management-Mobile-Application?node-id=14-4&t=Bc4HaUGE7m7wRJ5x-1" target="_blank" rel="noreferrer"><h2>SkyPort: Airport Management Mobile Application</h2></a>
                 <p>Designed an intuitive and user-friendly mobile application prototype using Figma for seamless airport navigation and services. The app includes features such as flight booking, real-time flight tracking, airport maps, and a comprehensive airport guide. Focused on providing a smooth user experience with modern visuals and interactive elements to simplify travel management. This design ensures accessibility and responsiveness, catering to a diverse range of users.</p>
             </div>
         </div>
