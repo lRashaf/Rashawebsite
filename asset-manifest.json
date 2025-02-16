@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/Rashawebsite/static/css/main.007ba21d.css",
+    "main.js": "/Rashawebsite/static/js/main.5029fb5e.js",
+    "static/js/453.b05d8aa5.chunk.js": "/Rashawebsite/static/js/453.b05d8aa5.chunk.js",
+    "static/media/project 4.png": "/Rashawebsite/static/media/project 4.1c350698d10110dc9d50.png",
+    "static/media/فنادق.png": "/Rashawebsite/static/media/فنادق.de92f9608662b915222f.png",
+    "static/media/home page (2).png": "/Rashawebsite/static/media/home page (2).50726a0792f8074286bf.png",
+    "static/media/مطار.png": "/Rashawebsite/static/media/مطار.cf166ec953f991d84759.png",
+    "static/media/proj1.png": "/Rashawebsite/static/media/proj1.86ec8bb02090b284d2fe.png",
+    "static/media/salati.png": "/Rashawebsite/static/media/salati.ce1d78482d46fded0d0c.png",
+    "static/media/tickets.png": "/Rashawebsite/static/media/tickets.f7bcc290bbedbf1f69a8.png",
+    "static/media/HIKE UI.png": "/Rashawebsite/static/media/HIKE UI.27d4a55a768e985ce66f.png",
+    "static/media/bg-light.png": "/Rashawebsite/static/media/bg-light.bac0efb485244a522981.png",
+    "static/media/bg-dark.png": "/Rashawebsite/static/media/bg-dark.f420c6b8458af72de935.png",
+    "static/media/طب نفسي.png": "/Rashawebsite/static/media/طب نفسي.e262f0d1f3223b50f930.png",
+    "static/media/سماعات.png": "/Rashawebsite/static/media/سماعات.e1fc04e6053962f8f51c.png",
+    "index.html": "/Rashawebsite/index.html",
+    "main.007ba21d.css.map": "/Rashawebsite/static/css/main.007ba21d.css.map",
+    "main.5029fb5e.js.map": "/Rashawebsite/static/js/main.5029fb5e.js.map",
+    "453.b05d8aa5.chunk.js.map": "/Rashawebsite/static/js/453.b05d8aa5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.007ba21d.css",
+    "static/js/main.5029fb5e.js"
+  ]
+}
