@@ -40,19 +40,20 @@ function Timeline() {
           </VerticalTimelineElement>
           <VerticalTimelineElement
             className="vertical-timeline-element--work"
-            date="2024"
+            date="2025"
             iconStyle={{ background: '#5000ca', color: 'rgb(39, 40, 34)' }}
             icon={<FontAwesomeIcon icon={faBriefcase} />}
           >
-            <h3 className="vertical-timeline-element-title">Google Data Analytics Professional Certificate</h3>
+            <h3 className="vertical-timeline-element-title">Trainee Front-End Developer | InnovationFront </h3>
             <h4 className="vertical-timeline-element-subtitle"></h4>
             <p>
-             A professional certification from Google that equips you with essential skills for data analysis, including data cleaning, analysis, visualization, and tools like SQL, R, and Tableau.
+            Trainee Front-End Developer at InnovationFront
+            Built responsive web applications using React & Tailwind CSS, integrated APIs, and collaborated on UI/UX implementation.
             </p>
           </VerticalTimelineElement>
           <VerticalTimelineElement
             className="vertical-timeline-element--work"
-            date="2020 - 2020"
+            date="2024"
             iconStyle={{ background: '#5000ca', color: 'rgb(39, 40, 34)' }}
             icon={<FontAwesomeIcon icon={faBriefcase} />}
           >
